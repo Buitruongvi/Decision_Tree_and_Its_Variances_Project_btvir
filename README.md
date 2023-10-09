@@ -1,4 +1,4 @@
-# Decision Tree and Its Variances Project
+# Tabular Data Project: Heart Disease Prediction
 
 In this project, we will apply basic machine learning methods to predict whether an individual is prone to heart disease or not, 
 based on the Cleveland Heart Disease dataset from the UCI Machine Learning Repository. The Cleveland dataset comprises 14 features, 
