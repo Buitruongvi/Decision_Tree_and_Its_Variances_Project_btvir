@@ -12,4 +12,8 @@ We will utilize various machine learning algorithms to predict whether a patient
 k-nearest neighbors (KNN), decision tree, random forest, AdaBoost, gradient boost, XGBoost, and support vector machine (SVM). We will integrate them using bagging, boosting, and stacking techniques.
 ![image](https://github.com/Buitruongvi/Decision_Tree_and_Its_Variances_Project_btvir/assets/49474873/d56690b9-2762-4283-b514-a8e5a5123d83)
 
+## 1. KNN
+Use the KNN algorithm to predict whether a patient is at risk of heart disease or not, using the following parameters: `n_neighbors=5`, `weights='uniform'`, `algorithm='auto'`, `leaf_size=30`, `p=2`, `metric='minkowski'`.
+
+
 
